@@ -8,11 +8,7 @@ public class Test2 {
 	
 	@Test
 	public void testSum2Number_1(){
-<<<<<<< HEAD
-	//Linea introducida en master para conflicto
-=======
-	//Linea introducida al resolver conflicto en rama conflicto
->>>>>>> conflicto
+		//Conflicto resuelto
 		assertEquals(2, 3-1);
 
 
